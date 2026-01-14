@@ -1,0 +1,25 @@
+{
+  "validAppointment": {
+    "facility": "Seoul CURA Healthcare Center",
+    "hospitalReadmission": true,
+    "program": "Medicaid",
+    "visitDate": "14/01/2026",
+    "comment": "John Doe está precisando visitando de um checkup de rotina."
+  },
+  "appointments": {
+    "routineCheckup": {
+      "facility": "Seoul CURA Healthcare Center",
+      "hospitalReadmission": true,
+      "program": "Medicaid",
+      "visitDate": "14/01/2026",
+      "comment": "Consulta de checkup de rotina"
+    },
+    "emergencyVisit": {
+      "facility": "Hongkong CURA Healthcare Center",
+      "hospitalReadmission": false,
+      "program": "Medicare",
+      "visitDate": "15/01/2026",
+      "comment": "Consulta de emergência devido a dor intensa"
+    }
+  }
+}
